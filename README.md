@@ -23,7 +23,7 @@
 ## HacktoberFest 2024
 [![An image of @yourbee03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yourbee03)](https://holopin.io/@yourbee03)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
