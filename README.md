@@ -4,8 +4,8 @@
 <img src="images/photo.JPG" alt="My Photo" width="200" />
 
 # 💫 About Me:
-- 🌱 I’m currently learning about Software Engineering  
-- 🔭 Studied [Software Engineer](https://www.youtube.com/watch?v=iIxZrYzJJ7I) at [Politeknik Negeri Padang](https://www.pnp.ac.id/)
+- 🌱 I’m currently learning about Software Engineer
+- 🔭 Studied [Software Engineering](https://www.youtube.com/watch?v=iIxZrYzJJ7I) at [Politeknik Negeri Padang](https://www.pnp.ac.id/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@trwh_ydi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@trwhydi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@trwhydi2503) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/@yourbee2503) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Trwhydi2503) 
