@@ -1,7 +1,7 @@
 ## Hi there 👋  
 I'm Tri Wahyudi
 
-![My Photo](./images/photo.jpg)
+![My Photo](./images/photo.JPG)
 
 # 💫 About Me:
 - 🌱 I’m currently learning about Software Engineering  
