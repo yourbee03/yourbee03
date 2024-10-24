@@ -1,7 +1,7 @@
 ## Hi there 👋  
-I'm Tri Wahyudi
+### I'm Tri Wahyudi
 
-![My Photo](./images/photo.JPG)
+<img src="images/photo.JPG" alt="My Photo" width="200" />
 
 # 💫 About Me:
 - 🌱 I’m currently learning about Software Engineering  
