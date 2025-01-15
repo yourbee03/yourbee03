@@ -1,8 +1,6 @@
 ## Hi there 👋  
 ### I'm Tri Wahyudi
 
-<img src="images/photo.JPG" alt="My Photo" width="200" />
-
 # 💫 About Me:
 - 🌱 I’m currently learning about Software Engineer
 - 🔭 Studied [Software Engineering](https://www.youtube.com/watch?v=iIxZrYzJJ7I) at [Politeknik Negeri Padang](https://www.pnp.ac.id/)
